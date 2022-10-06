@@ -4,7 +4,7 @@
 
 Bars at the bottom of the UI will need to be shifted down once you reach max level to account for the lack of an XP bar.**
 
-Copy the string from ![here](https://github.com/dwhite78/WoW-UI/blob/83c1ae564d0fc801ac20fd0e42e574d32478259d/Hunter/Hunter.ui), and paste it in to your UI Import within Edit Mode.
+Copy the string from ![here](https://raw.githubusercontent.com/dwhite78/WoW-UI/main/Hunter/Hunter.ui), and paste it in to your UI Import within Edit Mode.
 
 ### UI Layout
 2560x1440 (1440p)
