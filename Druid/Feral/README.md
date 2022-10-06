@@ -4,7 +4,7 @@
 
 Bars at the bottom of the UI will need to be shifted down once you reach max level to account for the lack of an XP bar.**
 
-Copy the string from ![here](https://github.com/dwhite78/WoW-UI/blob/b06ba6c484a928e9503773baf15b7fc701fa89e5/Druid/Feral/FeralUI), and paste it in to your UI Import within Edit Mode.
+Copy the string from ![here](https://raw.githubusercontent.com/dwhite78/WoW-UI/b06ba6c484a928e9503773baf15b7fc701fa89e5/Druid/Feral/FeralUI), and paste it in to your UI Import within Edit Mode.
 
 ### UI Layout
 2560x1440 (1440p)
