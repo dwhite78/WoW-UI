@@ -5,7 +5,9 @@
 Copy the string from ![here](https://github.com/dwhite78/WoW-UI/blob/83c1ae564d0fc801ac20fd0e42e574d32478259d/Hunter/Hunter.ui), and paste it in to your UI Import within Edit Mode.
 
 ### UI Layout
+2560x1440 (1440p)
 ![UI Layout](https://github.com/dwhite78/WoW-UI/blob/dba4b0720702fd04a93e288646d824c040fcd18e/Hunter/hunteruilayout.PNG)
 
 ### In Combat
+2560x1440 (1440p)
 ![Combat Layout](https://github.com/dwhite78/WoW-UI/blob/dba4b0720702fd04a93e288646d824c040fcd18e/Hunter/huntercombat.PNG)
