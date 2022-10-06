@@ -2,7 +2,7 @@
 
 **Not Final**
 
-Copy the string from 
+Copy the string from ![here](https://github.com/dwhite78/WoW-UI/blob/b06ba6c484a928e9503773baf15b7fc701fa89e5/Druid/Feral/FeralUI), and paste it in to your UI Import within Edit Mode.
 
 ### UI Layout
 ![UI Layout](https://github.com/dwhite78/WoW-UI/blob/56745fc1325633f7f47ab2cf1aa0ab511a431a42/Druid/Feral/Feral%20Druid%20UI%20Layout.PNG)
